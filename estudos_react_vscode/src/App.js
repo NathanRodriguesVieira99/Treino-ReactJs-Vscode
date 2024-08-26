@@ -1,5 +1,11 @@
+import Button from "./components/Button";
+
 function App() {
-	return <div className="App">Olá React</div>;
+	return (
+		<div className="App">
+			<h1>Olá React</h1>
+		</div>
+	);
 }
 
 export default App;
